@@ -1,2 +1,2 @@
-# Pytorch-CIFAR-10-CNN
-Convolutional Neural Network focused on animal image classification by hyperparameters
+# Movie recommendation ML algorithm
+Machine Learning algorithm focused on movie recommendation using cosine similarity and data vectorization
